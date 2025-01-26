@@ -3,8 +3,8 @@ package dysms
 import (
 	"encoding/json"
 
-	openapi "github.com/alibabacloud-go/darabonba-openapi/client"
-	dysmsapi "github.com/alibabacloud-go/dysmsapi-20170525/v2/client"
+	openapi "github.com/alibabacloud-go/darabonba-openapi/v2/client"
+	dysmsapi "github.com/alibabacloud-go/dysmsapi-20170525/v4/client"
 	"github.com/alibabacloud-go/tea/tea"
 )
 
